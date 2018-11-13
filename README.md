@@ -1,2 +1,2 @@
 # catch_up_TensorFlow
-Let's catch up the TensorFlow, and became a good friend.
+Let's catch up the TensorFlow, and become to a good friend.
